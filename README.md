@@ -20,11 +20,3 @@ The Secure File Transfer (SFT) application provides a streamlined way to send an
 1. **Server**: The server application listens for incoming client connections on a specific IP and port.
 2. **Client**: The client connects to the server, specifies the file to transfer, and initiates the file transfer process.
 
-### Potential Enhancements:
-To improve security and reliability, future versions could include:
-- **Data encryption**: To protect files during transmission.
-- **Integrity checks**: To ensure that files are received without errors.
-- **Authentication**: To verify that only authorized users can send/receive files.
-
-### Summary:
-This project serves as a foundation for secure file transfers, showcasing essential networking techniques in C. It provides a functional, extendable template for building more sophisticated file transfer applications with additional security and reliability measures.
